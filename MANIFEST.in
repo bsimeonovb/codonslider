@@ -1,0 +1,2 @@
+include LICENSE
+recursive-include name_of_package *.py
