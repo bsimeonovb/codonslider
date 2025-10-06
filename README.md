@@ -16,5 +16,11 @@ Python >=3.13 is required.
 2. pandas
 3. datetime
 
+## Installation Instructions
+**Using pip**
+
+```python
+pip install gtAI
+```
 
 
