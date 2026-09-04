@@ -1,4 +1,4 @@
-# Codonslider -> codon stretch identificator
+# Codonslider -> codon stretch analyzer
 
 codonslider is a new package implemented in python to determine the percentage of codon stretches within certain region of the gene.
 It works by applying the sliding window principle which scans the CCDS sequence and records the percentage of the codon of interest.
