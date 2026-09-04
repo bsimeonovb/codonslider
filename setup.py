@@ -3,7 +3,7 @@ from pathlib import Path
 
 setup(
     name='codonslider',
-    version='0.1.0',
+    version='1.0',
     packages=['codonslider'],
     url='https://github.com/bsimeonovb/codonslider',
     license='MIT',
