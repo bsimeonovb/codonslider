@@ -6,7 +6,6 @@ setup(
     version='1.0',
     packages=['codonslider'],
     url='https://github.com/bsimeonovb/codonslider',
-    license='MIT',
     author='Boris Simeonov',
     author_email='bsimeonovb@gmail.com',
     description='Bioinformatic tool for codon stretch detection in CCDS sequences',
